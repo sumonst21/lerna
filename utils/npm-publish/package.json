@@ -34,7 +34,7 @@
     "@lerna/otplease": "file:../../core/otplease",
     "@lerna/run-lifecycle": "file:../run-lifecycle",
     "fs-extra": "^9.1.0",
-    "libnpmpublish": "^6.0.4",
+    "libnpmpublish": "^11.1.3",
     "npm-package-arg": "8.1.1",
     "npmlog": "^6.0.2",
     "pify": "^5.0.0",
