@@ -55,13 +55,13 @@
     "@lerna/validation-error": "file:../../core/validation-error",
     "@lerna/version": "file:../version",
     "fs-extra": "^9.1.0",
-    "libnpmaccess": "^6.0.3",
+    "libnpmaccess": "^10.0.3",
     "npm-package-arg": "8.1.1",
-    "npm-registry-fetch": "^13.3.0",
+    "npm-registry-fetch": "^19.1.1",
     "npmlog": "^6.0.2",
     "p-map": "^4.0.0",
     "p-pipe": "^3.1.0",
-    "pacote": "^13.6.1",
+    "pacote": "^21.4.0",
     "semver": "^7.3.4"
   }
 }
