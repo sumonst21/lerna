@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@lerna/npm-conf": "file:../npm-conf",
-    "@npmcli/run-script": "^4.1.7",
+    "@npmcli/run-script": "^10.0.4",
     "npmlog": "^6.0.2",
     "p-queue": "^6.6.2"
   }
